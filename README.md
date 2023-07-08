@@ -4,3 +4,4 @@ Starting with exercises on Page 286 to Page 292 solve all question especially st
 ### All questions will be in a format that
 #### Very short decribsion of the question
 #### Solution of the question with the comments: for instance inilatizon, end of the code, reaching to another method, creating method or an object
+#### date of the code
